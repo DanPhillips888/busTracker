@@ -1,6 +1,6 @@
 # busTracker
 
-<img src ="" width=150>
+<img src ="./blue.png" width=150>
 
 A live Public Transit Bus Tracking application which uses real live data from the MTA to track buses moving between Harvard and MIT in Boston.
 
