@@ -6,7 +6,7 @@ A live Public Transit Bus Tracking application which uses real live data from th
 
 ## Run Instructions
 
-Copy the files busTracker.html, red.png and blue.png to a common folder on your hard drive. Then drag and drop the busTracker.html file into a browser.
+Copy the files busTracker.html, mapAnimation.js, red.png and blue.png to a common folder on your hard drive. Then drag and drop the busTracker.html file into a browser.
 
 ## Future Development
 
