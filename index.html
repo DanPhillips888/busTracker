@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
+  <head>
+        <title>Live Bus Tracker</title>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+        <link rel="stylesheet" type="text/css" href="./style.css" />
+
+        <script async
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC_CYTQboTcOTYhrxtJhPJ5Y8qLyKXguM&libraries=drawing&callback=init">
+        </script>
+      </head>
   <body>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyDC_CYTQboTcOTYhrxtJhPJ5Y8qLyKXguM&callback=init"></script>
     <div id="map" style="width:1024px; height:768px"></div>
     <script src="./mapAnimation.js"></script>
   </body>
